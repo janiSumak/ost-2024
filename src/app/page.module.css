@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  background-color: #000;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Arial', sans-serif;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-title {
+  font-size: 3rem;
+  font-weight: bold;
+  margin: 20px 0;
+}
+
+.App-description {
+  font-size: 1.2rem;
+  color: #333;
+  max-width: 600px;
+  margin: 0 auto;
+}
